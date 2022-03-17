@@ -1,0 +1,2 @@
+# MusicStore-Management-App
+This is a 1-man university project I developed during my OOP course. The purpose is to have different types of music products (using classes, inheritance, polymorphism etc.) dynamically allocated in a menu object (called musicStore). The store has a text-based interface with multiple options for the user : View, Add, Delete, Show Compatible Products (based on some pre-established rules), Group Products (by categories) and Exit.
